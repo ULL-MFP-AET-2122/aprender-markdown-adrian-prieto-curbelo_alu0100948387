@@ -6,8 +6,9 @@
 # Adrián Prieto Curbelo
 * ### Ingeniero Informático. :computer:
 * ### Máster en Ciberseguridad e Inteligencia de Datos.
-* [GitHub]( https://github.com/AdrianPrietoCurbelo ), [Linkedin]( https://www.linkedin.com/in/adrian-prieto-curbelo-133640181/ )
+* ### [GitHub]( https://github.com/AdrianPrietoCurbelo ), [Linkedin]( https://www.linkedin.com/in/adrian-prieto-curbelo-133640181/ )
 * <a href="https://www.ull.es/"> <img style='vertical-align:middle;' src="https://lh3.googleusercontent.com/proxy/MFIJQXX7lB4FgAB62IRplFMckvZsLl5F113OLpUzLmWtobKM3VsUzyfXbEkr-ZrtprKjMkZC6a6DhEjbRGYK1k9Pz38PZRscsd7mT0D_7RqhJZhC-EJjWqlG" width=150 > </a>
+* ### Experiencia de la tarea en [master.md](https://github.com/ULL-MFP-AET-2122/aprender-markdown-adrian-prieto-curbelo_alu0100948387/blob/main/master.md)
 
 Lenguajes de programación | Uso
 ------------------------- |---
@@ -23,6 +24,8 @@ Lenguajes de programación | Uso
 > Keep trying. </br>
 > It's only from the valley that the mountain seems high. </br>
 >  -_Zig Ziglar_.
+
+</br>
 
 `/* A Better way to explain should be: */`
 ```c++
